@@ -5,5 +5,6 @@ Repository ini digunakan sebagai sayembara pencarian volunter untuk pembuatan ap
   
 Berikut daftar volunter yang diterima:
 * Oon Arfiandwi, [oo.or.id](https://oo.or.id).
+* Abd. Azis Syam, [Abd. Azis Syam](www.linkedin.com/in/abd-azis-syam-8bb347247)
 
 Semoga bahagia:)
